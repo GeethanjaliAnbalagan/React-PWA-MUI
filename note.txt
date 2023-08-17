@@ -1,0 +1,51 @@
+Material UI - Overview & Components Inputs
+
+Introduction to MUI
+How does it work
+MUI Key features                                                                                                                                                                                           Advantages of using React over plain Javascript
+Installation of React
+MUI in react application 
+Advantages of using React
+Application developed in MUI
+---------------
+Material UI vs. Base UI
+Supported components
+Supported platforms
+INPUTS - Autocomplete, Button, Button Group, Checkbox, Floating Action Button, Radio Group, Rating, Select
+Slider, Switch, Text Field, Transfer List, Toggle Button
+-----------------------------------------------------------------------
+Material UI  Components - Data Display, Feedback, 	
+
+DATA DISPLAY - Avatar, Badge, Chip, Divider, Icons ,Material Icons, List, Table, Tooltip, Typography
+FEEDBACK - Alert, Backdrop, Dialog, Progress, Skeleton, Snackbar
+SURFACES - Accordion,App Bar, Card, Paper
+
+-----------------------------------------------------------------------
+Material UI  Components - Navigation, Layout, Utils
+
+NAVIGATION - Bottom Navigation, Breadcrumbs, Drawer, Link, Menu, Pagination ,Speed Dial, Stepper, Tabs
+LAYOUT - Box,Container,Grid,Grid v2, Stack,Image List,Hidden
+UTILS - Click-Away Listener,CSS Baseline,Modal,No SSR,Popover,Popper,Portal,Textarea Autosize,Transitions,useMediaQuery
+MUI X - Data Grid,Date & Time Pickers
+--------------------------------------------------------------------
+Material UI  Components API
+
+Accordion,AccordionActions,Alert,AppBar,Autocomplete,Avatar,AvatarGroup,Backdrop,Badge,BottomNavigation,BottomNavigationAction,Box,Breadcrumbs,Button,ButtonBase,Card,CardActionArea,CardContent,CardHeader,Container,Dialog,DialogContentText,Fade,FormGroup,Grid,Icon,ImageList,Input,Link,List,Menu,Pagination,Popover etc
+
+
+---------------------------------------------------------------------
+Material UI  Customization
+
+THEME - Theming,Palette,Dark mode,Typography,Spacing,Breakpoints,Density,z- index,Transitions,Components,Default theme viewer
+How to customize
+Color
+
+
+---------------------------------------------------------------------
+
+Material UI - Overview & Components Inputs
+Material UI  Components - Data Display, Feedback, Surfaces
+Material UI  Components - Navigation, Layout, Utils
+Material UI  Components API
+Material UI  Customization
+
